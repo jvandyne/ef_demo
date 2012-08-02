@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Address] (
+    [Id]    INT           IDENTITY (0, 1) NOT NULL,
+    [Line1] VARCHAR (200) NULL,
+    [Line2] VARCHAR (200) NULL,
+    [City]  VARCHAR (200) NULL,
+    [State] CHAR (2)      NULL,
+    [Zip]   VARCHAR (15)  NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC) WITH (ALLOW_PAGE_LOCKS = ON, ALLOW_ROW_LOCKS = ON, PAD_INDEX = OFF, IGNORE_DUP_KEY = OFF, STATISTICS_NORECOMPUTE = OFF)
+);
+

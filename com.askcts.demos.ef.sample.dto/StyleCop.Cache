@@ -1,0 +1,94 @@
+<stylecopresultscache>
+  <version>10</version>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/27/2011 13:18:56</timestamp>
+      <milliseconds>983</milliseconds>
+    </settings>
+    <timestamp>08/02/2012 13:01:38</timestamp>
+    <milliseconds>303</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Program.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/27/2011 13:18:56</timestamp>
+      <milliseconds>983</milliseconds>
+    </settings>
+    <timestamp>08/02/2012 13:01:38</timestamp>
+    <milliseconds>342</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="ElementMustBeginWithUpperCaseLetter" ruleCheckId="SA1300">
+        <context>namespace names begin with an upper-case letter: com.askcts.demos.ef.sample.dto.</context>
+        <line>7</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="AccessModifierMustBeDeclared" ruleCheckId="SA1400">
+        <context>The class must have an access modifier.</context>
+        <line>17</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="AccessModifierMustBeDeclared" ruleCheckId="SA1400">
+        <context>The method must have an access modifier.</context>
+        <line>23</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name=".NETFramework,Version=v4.0,Profile=Client.AssemblyAttributes.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/27/2011 13:18:56</timestamp>
+      <milliseconds>983</milliseconds>
+    </settings>
+    <timestamp>05/01/2012 11:23:41</timestamp>
+    <milliseconds>978</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Employee.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/27/2011 13:18:56</timestamp>
+      <milliseconds>983</milliseconds>
+    </settings>
+    <timestamp>08/02/2012 14:00:12</timestamp>
+    <milliseconds>641</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Address.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/27/2011 13:18:56</timestamp>
+      <milliseconds>983</milliseconds>
+    </settings>
+    <timestamp>08/02/2012 14:00:12</timestamp>
+    <milliseconds>643</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Models.Test.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/27/2011 13:18:56</timestamp>
+      <milliseconds>983</milliseconds>
+    </settings>
+    <timestamp>08/02/2012 14:02:36</timestamp>
+    <milliseconds>209</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Address.Generated.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/27/2011 13:18:56</timestamp>
+      <milliseconds>983</milliseconds>
+    </settings>
+    <timestamp>08/02/2012 14:01:33</timestamp>
+    <milliseconds>271</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Employee.Generated.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/27/2011 13:18:56</timestamp>
+      <milliseconds>983</milliseconds>
+    </settings>
+    <timestamp>08/02/2012 14:01:33</timestamp>
+    <milliseconds>270</milliseconds>
+    <violations />
+  </sourcecode>
+  <project key="-1020303289">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+</stylecopresultscache>

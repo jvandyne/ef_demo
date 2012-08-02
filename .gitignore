@@ -1,0 +1,9 @@
+*.dll
+*.exe
+*.user
+*.suo
+_Resharper*
+.hg*
+bin/
+obj/
+*.pdb

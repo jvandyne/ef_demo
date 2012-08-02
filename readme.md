@@ -1,0 +1,1 @@
+A example of using entity framework with a data access layer and a domain layer.
